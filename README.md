@@ -42,25 +42,10 @@ How to Play
 6.  The game tracks your total attempts across sessions
     
 
-Installation
-------------
-
-1.  bashCopyDownloadgit clone https://github.com/your-username/number-guessing-game.git
-    
-2.  bashCopyDownloadpip install streamlit
-    
-
-Running the Game
-----------------
-
-bashCopyDownload
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   streamlit run app.py   `
-
 Requirements
 ------------
 
-*   Python 3.x
+*   Python 3.13
     
 *   Streamlit
     
